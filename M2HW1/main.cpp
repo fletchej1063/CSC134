@@ -38,15 +38,15 @@ int main()
     int year2;
 
     cout << "Enter the name of your first movie: ";
-    //getline(cin, movieName);
-    cin >> movieName;
+    cin.ignore();
+    getline(cin, movieName);
     cout << "Enter the year the movie was made: ";
     cin >> year;
     cout << "Enter the IMDB rating: ";
     cin >> rating;
     cout << "Enter the name of your second movie: ";
-    //getline(cin, movieName2);
-    cin >> movieName2;
+    cin.ignore();
+    getline(cin, movieName2);
     cout << "Enter the year the movie was made: ";
     cin >> year2;
     cout << "Enter the IMDB rating: ";
@@ -55,9 +55,14 @@ int main()
     {
         cout << "I would recommend " << movieName << " over " << movieName2 << ". It seems to be better." << endl;
     }
-    else
+    else if (rating < rating2)
     {
         cout << "I would recommend " << movieName2 << " over " << movieName << ". It seems to be better." << endl;
+    }
+    else
+    {
+        cout << "It seems like both movies are equally as good" << endl;
+
     }
 
 
