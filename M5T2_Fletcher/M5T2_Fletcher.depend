@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551809350 source:e:\c++\m5t2_fletcher\main.cpp
+	<iostream>
+	"Pen.h"
+
+1551809806 e:\c++\m5t2_fletcher\pen.h
+
