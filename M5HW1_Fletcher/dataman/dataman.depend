@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1550776452 source:e:\c++\m4lab_fletcher\dataman\arithmetic.cpp
+
+1551381864 source:e:\c++\m4lab_fletcher\dataman\main.cpp
+	<iostream>
+	"arithmetic.h"
+	"temperature.h"
+	"menu.h"
+
+1550776452 e:\c++\m4lab_fletcher\dataman\arithmetic.h
+
+1551381096 source:e:\c++\m4lab_fletcher\dataman\temperature.cpp
+
+1551381096 e:\c++\m4lab_fletcher\dataman\temperature.h
+
+1551381794 e:\c++\m4lab_fletcher\dataman\menu.h
+
+1551382256 source:e:\c++\m4lab_fletcher\dataman\menu.cpp
+	<iostream>
+	"arithmetic.h"
+	"temperature.h"
+
+1550776452 source:e:\c++\m5hw1_fletcher\dataman\arithmetic.cpp
+
+1551982274 source:e:\c++\m5hw1_fletcher\dataman\menu.cpp
+	<iostream>
+	"arithmetic.h"
+	"temperature.h"
+
+1550776452 e:\c++\m5hw1_fletcher\dataman\arithmetic.h
+
+1551381096 e:\c++\m5hw1_fletcher\dataman\temperature.h
+
+1551811182 source:e:\c++\m5hw1_fletcher\dataman\temperature.cpp
+
+1551811666 source:e:\c++\m5hw1_fletcher\dataman\main.cpp
+	<iostream>
+	"arithmetic.h"
+	"temperature.h"
+	"menu.h"
+
+1551381794 e:\c++\m5hw1_fletcher\dataman\menu.h
+
