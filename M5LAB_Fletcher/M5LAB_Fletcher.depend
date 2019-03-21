@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553018764 source:e:\c++\m5lab_fletcher\main.cpp
+	<iostream>
+	"room.h"
+
+1553018572 e:\c++\m5lab_fletcher\room.h
+
+1553018588 source:e:\c++\m5lab_fletcher\room.cpp
+	<iostream>
+	"room.h"
+
