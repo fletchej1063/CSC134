@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553797222 source:e:\c++\m6t1_fletcher\main.cpp
+	<iostream>
+	"observer.h"
+
+1553796850 e:\c++\m6t1_fletcher\observer.h
+
+1553795024 source:e:\c++\m6t1_fletcher\observer.cpp
+	<iostream>
+	"observer.h"
+
