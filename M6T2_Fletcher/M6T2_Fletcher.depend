@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554400864 source:e:\c++\m6t2_fletcher\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"room.h"
+
+1554401066 e:\c++\m6t2_fletcher\room.h
+	<string>
+
+1554401064 source:e:\c++\m6t2_fletcher\room.cpp
+	"room.h"
+
