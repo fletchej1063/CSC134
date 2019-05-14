@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557248930 source:e:\c++\m7t1-2_fletcher\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
