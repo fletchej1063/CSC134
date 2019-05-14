@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1556819588 source:e:\c++\adventure_fletcher\main.cpp
+	<iostream>
+	"game.h"
+
+1555611778 source:e:\c++\adventure_fletcher\room.cpp
+	"room.h"
+
+1555609010 e:\c++\adventure_fletcher\room.h
+	<string>
+
+1555436978 source:e:\c++\adventure_fletcher\player.cpp
+	"player.h"
+
+1555435634 e:\c++\adventure_fletcher\player.h
+	<string>
+	"room.h"
+
+1557856410 source:e:\c++\adventure_fletcher\game.cpp
+	"game.h"
+
+1557854380 e:\c++\adventure_fletcher\game.h
+	<iostream>
+	<vector>
+	<string>
+	"room.h"
+	"player.h"
+	"item.h"
+
+1556647406 source:e:\c++\adventure_fletcher\item.cpp
+	"item.h"
+	<iostream>
+
+1556647388 e:\c++\adventure_fletcher\item.h
+	<string>
+	<vector>
+
